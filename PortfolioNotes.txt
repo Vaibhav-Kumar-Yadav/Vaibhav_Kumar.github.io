@@ -1,0 +1,13 @@
+For installation follow the website
+-----------------
+bundle install
+bundle exec jekyll serve  => Run
+-----------
+when 
+jekyll new . --force =>Create New
+----------------
+Approach 2
+create new repo from github repo of them
+Clone
+bundle install
+bundle exec jekyll serve  => Run
